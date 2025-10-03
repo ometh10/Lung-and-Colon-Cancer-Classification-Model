@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep this file
+!cnn_model copy.ipynb
+
+# Also keep this .gitignore file
+!.gitignore
